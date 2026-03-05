@@ -2,7 +2,7 @@
 
 **Learn guitar by fighting monsters.** OpenFret is a browser-based guitar platform where real note detection powers an RPG — no downloads, no cables, no monthly subscription.
 
-🔗 **[openfret.com](https://openfret.com)** · 🎮 **[Try Guitar Quest Free](https://openfret.com/game/demo)** · 💬 **[Join the Discord](https://openfret.com/community)**
+🔗 **[openfret.com](https://openfret.com)** · 🎮 **[Try Guitar Quest Free](https://openfret.com/game/demo)** · 💬 **[Join the Discord](https://discord.com/invite/G3Pur3PzZm)**
 
 ---
 
